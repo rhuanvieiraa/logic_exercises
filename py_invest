@@ -139,4 +139,6 @@ rodar_pyinvest()
 
 print("\n" + "-" * 50)
 print("========== CONSULTORIA FINALIZADA OBRIGADO ==========")
+
+# Finaliza o código no cmd
 input("Pressione Enter para Sair...")
