@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Analista de Dados | Estudante de Sistemas de Informação
 -------------------------------------------------------
 
-Sou estudante de Sistemas de Informação na Mackenzie e atuo como Analista de Dados na Power Clean. Tenho focado meu aprendizado em Python para automação e análise de dados, além de estudar a fundo arquitetura de computadores e lógica de programação. Busco constantemente otimizar processos reais através da tecnologia, como já venho fazendo com scripts de automação e manipulação de dados em larga escala.
+Sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie e atuo como Analista de Dados na Power Clean. Tenho focado meu aprendizado em Python para automação e análise de dados, além de estudar a fundo arquitetura de computadores e lógica de programação. Busco constantemente otimizar processos reais através da tecnologia, como já venho fazendo com scripts de automação e manipulação de dados em larga escala.
 
 * 🌍 São Paulo, Brasil 🇧🇷
 * ✉️ Contato: [rhuanvieira382@gmail.com](mailto:rhuanvieira382@gmail.com)
